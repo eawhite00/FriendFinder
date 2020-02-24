@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "This application from my UW coding boot camp is used to demonstrate my ability to create an express server and build a full stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eawhite00/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eawhite00/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/eawhite00/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
